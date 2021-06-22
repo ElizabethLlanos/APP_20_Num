@@ -1,0 +1,13 @@
+D:\visual_studio\App3Arreglos\App3Arreglos\bin\Debug\netcoreapp3.1\App3Arreglos.exe
+D:\visual_studio\App3Arreglos\App3Arreglos\bin\Debug\netcoreapp3.1\App3Arreglos.deps.json
+D:\visual_studio\App3Arreglos\App3Arreglos\bin\Debug\netcoreapp3.1\App3Arreglos.runtimeconfig.json
+D:\visual_studio\App3Arreglos\App3Arreglos\bin\Debug\netcoreapp3.1\App3Arreglos.runtimeconfig.dev.json
+D:\visual_studio\App3Arreglos\App3Arreglos\bin\Debug\netcoreapp3.1\App3Arreglos.dll
+D:\visual_studio\App3Arreglos\App3Arreglos\bin\Debug\netcoreapp3.1\App3Arreglos.pdb
+D:\visual_studio\App3Arreglos\App3Arreglos\obj\Debug\netcoreapp3.1\App3Arreglos.csprojAssemblyReference.cache
+D:\visual_studio\App3Arreglos\App3Arreglos\obj\Debug\netcoreapp3.1\App3Arreglos.AssemblyInfoInputs.cache
+D:\visual_studio\App3Arreglos\App3Arreglos\obj\Debug\netcoreapp3.1\App3Arreglos.AssemblyInfo.cs
+D:\visual_studio\App3Arreglos\App3Arreglos\obj\Debug\netcoreapp3.1\App3Arreglos.csproj.CoreCompileInputs.cache
+D:\visual_studio\App3Arreglos\App3Arreglos\obj\Debug\netcoreapp3.1\App3Arreglos.dll
+D:\visual_studio\App3Arreglos\App3Arreglos\obj\Debug\netcoreapp3.1\App3Arreglos.pdb
+D:\visual_studio\App3Arreglos\App3Arreglos\obj\Debug\netcoreapp3.1\App3Arreglos.genruntimeconfig.cache
